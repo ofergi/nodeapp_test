@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-WORKDIR /usr/src/app
+WORKDIR /usr/src/app/ofer123/
 
 COPY package.json ./
 
